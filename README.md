@@ -1,2 +1,2 @@
-# EarthquakeApp_policy
+# EarthquakeTMD_App_policy
 EarthquakeTMD policy
